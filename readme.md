@@ -10,7 +10,7 @@ DimiCMS, como su nombre indica, es una CMS (Content Management System) para el e
 
 - 🔧 **Modo de mantenimiento (Acceso Staff)**
 
-!(Index)(screens/indexmantenimiento.png)
+![Index](screens/indexmantenimiento.png)
   
 ![Mantenimiento](screens/accesostaff.png)
 
@@ -40,6 +40,3 @@ DimiCMS, como su nombre indica, es una CMS (Content Management System) para el e
 - 🖼️ **Galería**  
 
 - 🛠️ **Housekeeping**
-
-
-Puedes ver esto y mucho más vía [Wayback Machine]([https://web.archive.org/web/20220601000000*/bubbu.in)
