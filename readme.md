@@ -8,11 +8,21 @@ DimiCMS, como su nombre indica, es una CMS (Content Management System) para el e
   
 ![Index](screens/index.png)
 
+- 🔧 **Modo de mantenimiento (Acceso Staff)**
+- 
+![Mantenimiento](screens/accesostaff.png)
+
+![Pin](screens/pin.png)
+
 - 🏠 **Home**
   
 ![Home](screens/me.png)
 
-- 👥 **Página Staff**  
+- 👥 **Página Staff**
+
+![Staff](screens/staff.png)
+
+![Staff](screens/staff2.png)
 
 - 🧑 **Perfil de usuario**
   
