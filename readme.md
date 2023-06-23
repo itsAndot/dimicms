@@ -18,15 +18,20 @@ DimiCMS, como su nombre indica, es una CMS (Content Management System) para el e
   
 ![Home](screens/me.png)
 
-- 👥 **Página Staff**
+- 👥 **Página Staff** (Personaje, indicador de online, bandera, misión, función)
 
 ![Staff](screens/staff.png)
+
 
 ![Staff](screens/staff2.png)
 
 - 🧑 **Perfil de usuario**
   
 ![Profile](screens/profile.png)
+
+- 📰 **Noticias**
+- 
+![Noticias](screens/noticias.png)
 
 - 🏆 **Ranking**  
 
