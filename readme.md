@@ -9,3 +9,4 @@
 🏆 Ranking: Clasificaciones y rankings para destacar a los mejores usuarios.
 🖼️ Galería: Una galería para compartir y ver imágenes.
 🛠️ Housekeeping: Herramientas de administración para mantener el sitio organizado y en buen estado.
+¡Explora, contribuye y disfruta del desarrollo de esta CMS diseñada para el emulador Arcturus! 🌟
