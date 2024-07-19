@@ -1,6 +1,6 @@
 # 🌐 DimiCMS
 
-DimiCMS, como su nombre indica, es una CMS (Content Management System) basada en Brain, para el emulador Arcturus.
+DimiCMS, como su nombre indica, es una CMS (Content Management System) basada en Brain para el emulador Arcturus, utilizada en Bubbu en el año 2023.
 
 ## ✨ Características
 
